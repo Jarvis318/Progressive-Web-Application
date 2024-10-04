@@ -10,10 +10,10 @@
 [Questions](#Questions)  
 
 ## Description
-This is a program designed to simulate Social Network API. It provides the user to add Users, thoughts, reactions, and friends inside of the user model to accomplish this task, using Insomnia.
+This is a single page text editor application that is meant to be a Progressive Web Application (PWA). One that is alos able to be installed and used offline if the user chooses.
 
 ## Website_link
-
+https://progressive-web-application-1fou.onrender.com
 
 
 ## License
